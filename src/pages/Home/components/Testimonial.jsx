@@ -6,8 +6,8 @@ class Testimonial extends Component {
       width: "100%",
     }
     return (
-      <div className="container text-center mt-5">
-        <h3 id="testimoni" className="mb-5">
+      <div id="testimoni" className="container text-center mt-5">
+        <h3  className="mb-5">
           Testimoni
         </h3>
         <div className="row">
